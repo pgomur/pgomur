@@ -1,6 +1,6 @@
 ## Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomur&layout=compact&langs_count=20&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages" width="200" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgomur&layout=compact&langs_count=20&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages)
 
 ### Programming Languages
 
@@ -32,7 +32,7 @@
 ![pytest](https://img.shields.io/badge/pytest-6E5494?style=flat&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-654FF0?style=flat&logoColor=white)
 
-### Bases de Datos
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
