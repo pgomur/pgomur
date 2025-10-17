@@ -1,6 +1,6 @@
 ## Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgomur&layout=compact&langs_count=20&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomur&layout=compact&langs_count=20&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages" width="320" />
 
 ### Programming Languages
 
