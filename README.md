@@ -1,5 +1,7 @@
 ## Tech Stack
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgomur&layout=compact&langs_count=20&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages)
+
 ### Programming Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
