@@ -13,7 +13,8 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-6C757D?style=flat&logo=flask&logoColor=white)
-
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 ### Frontend Frameworks and Libraries
 
@@ -29,11 +30,12 @@
 ![Jest](https://img.shields.io/badge/Jest-D94F5A?style=flat&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-6E5494?style=flat&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-654FF0?style=flat&logoColor=white)
+![pfUnit](https://img.shields.io/badge/pfUnit-FF6F61?style=flat&logo=none&logoColor=white)  
 
-### Databases
+### Databases & Data Formats
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
+![HDF5](https://img.shields.io/badge/HDF5-1067A1?style=flat&logo=HDF5&logoColor=white)  
 
 ### Infrastructure and DevOps
 
@@ -44,6 +46,9 @@
 ![Harbor](https://img.shields.io/badge/Harbor-0052CC?style=flat&logo=harbor&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-2E7D82?style=flat&logo=sonarqube&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![GNU Fortran](https://img.shields.io/badge/GNU%20Fortran-FF6600?style=flat&logo=gnu&logoColor=white) 
+![FORD](https://img.shields.io/badge/FORD-7B68EE?style=flat&logo=none&logoColor=white)  
 
 ### Development Tools
 
