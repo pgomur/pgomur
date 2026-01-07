@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgomur&layout=compact&langs_count=20&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pgomur&layout=compact&theme=github_dark&langs_count=10)
 
 ### Programming Languages
 
