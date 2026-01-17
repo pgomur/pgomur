@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white)
 ![Ada](https://img.shields.io/badge/Ada-005F73?style=flat&logo=ada&logoColor=white)
+![SPARK](https://img.shields.io/badge/SPARK-1F3A93?style=flat&logo=ada&logoColor=white)
 
 
 ### Frameworks and Backend Libraries
@@ -77,6 +78,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![GNAT](https://img.shields.io/badge/GNAT-FF7F11?style=flat&logo=gnu&logoColor=white)
+![Alire](https://img.shields.io/badge/Alire-3AA655?style=flat&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-333333?style=flat&logo=make&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
