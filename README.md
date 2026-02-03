@@ -58,7 +58,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HDF5](https://img.shields.io/badge/HDF5-1067A1?style=flat&logo=HDF5&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-6E9EFF?style=flat&logo=json&logoColor=white)
-![TOON](https://img.shields.io/badge/TOON-8A6EFF?style=flat)
 
 ### Infrastructure and DevOps
 
