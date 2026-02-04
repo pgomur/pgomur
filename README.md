@@ -76,6 +76,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 ![GNAT](https://img.shields.io/badge/GNAT-FF7F11?style=flat&logo=gnu&logoColor=white)
 ![Alire](https://img.shields.io/badge/Alire-3AA655?style=flat&logoColor=white)
