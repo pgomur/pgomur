@@ -73,7 +73,8 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-2E7D82?style=flat&logo=sonarqube&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![GNU Fortran](https://img.shields.io/badge/GNU%20Fortran-FF6600?style=flat&logo=gnu&logoColor=white) 
-![FORD](https://img.shields.io/badge/FORD-7B68EE?style=flat&logo=none&logoColor=white)  
+![FORD](https://img.shields.io/badge/FORD-7B68EE?style=flat&logo=none&logoColor=white)
+![TypeDoc](https://img.shields.io/badge/TypeDoc-007ACC?style=flat&logo=typedoc&logoColor=white)
 
 ### Development Tools
 
