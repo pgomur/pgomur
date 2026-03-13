@@ -48,6 +48,7 @@
 ### Testing
 
 ![Jest](https://img.shields.io/badge/Jest-D94F5A?style=flat&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-646cff?style=flat&logo=vitest&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-6E5494?style=flat&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-654FF0?style=flat&logoColor=white)
 ![pfUnit](https://img.shields.io/badge/pfUnit-FF6F61?style=flat&logo=none&logoColor=white)  
@@ -63,7 +64,9 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Cloudflare%20Pages](https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-6E40C9?style=flat&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-000000?style=flat&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-0052CC?style=flat&logo=harbor&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
