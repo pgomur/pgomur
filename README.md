@@ -11,7 +11,7 @@
 - **[Binary Raw](https://github.com/pgomur/binary-raw)** - Zero-framework hex editor with virtualized rendering and multi-format binary parsing
 - **[VPBX Flow Extension](https://github.com/pgomur/vpbx-flow-extension)** - Read-only Chrome extension (Manifest V3) for VPBX data exploration with relational panels and graph view
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pgomur&layout=compact&theme=github_dark&langs_count=10&hide_border=true)
+# Tech Stack
 
 ### Programming Languages
 
@@ -98,7 +98,6 @@
 ![GNAT](https://img.shields.io/badge/GNAT-FF7F11?style=flat&logo=gnu&logoColor=white)
 ![Alire](https://img.shields.io/badge/Alire-3AA655?style=flat&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-333333?style=flat&logo=make&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-4D4D4D?style=flat&logo=obsidian&logoColor=white)
