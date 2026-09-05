@@ -7,9 +7,9 @@
 - **[SEIRD Simulator](https://github.com/pgomur/seird-simulator)** - Fortran epidemiological simulator with OpenMP, adaptive RK45 integration, and vaccination dynamics
   
 ### Web Apps, Graphics & Interfaces
-- **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - Procedural WebGPU terrain engine using compute shaders, predictive spatial streaming, and Angular Signals
-- **[Binary Raw](https://github.com/pgomur/binary-raw)** - Zero-framework web-based hex editor with virtualized rendering, multi-format binary parsing, and real-time data inspection
-- **[VPBX Flow Extension](https://github.com/pgomur/vpbx-flow-extension)** - Read-only Chrome extension (Manifest V3) for VPBX data exploration with relational panels and D3 graph view
+- **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - WebGPU procedural terrain engine with compute shaders, predictive streaming, and Angular Signals
+- **[Binary Raw](https://github.com/pgomur/binary-raw)** - Zero-framework hex editor with virtualized rendering and multi-format binary parsing
+- **[VPBX Flow Extension](https://github.com/pgomur/vpbx-flow-extension)** - Read-only Chrome extension (Manifest V3) for VPBX data exploration with relational panels and graph view
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pgomur&layout=compact&theme=github_dark&langs_count=10&hide_border=true)
 
