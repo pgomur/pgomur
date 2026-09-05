@@ -1,3 +1,16 @@
+# Projects
+
+### Systems, Simulation & High-Performance Computing
+- **[Multi Geofence Priority](https://github.com/pgomur/multi_geofence_priority)** - UAV multi-zone geofencing with Ada/SPARK formal verification and DO-178C principles
+- **[MC-MD Simulator](https://github.com/pgomur/MC-MD-Simulator)** - Interactive Molecular Dynamics & Monte Carlo simulation platform built with Fortran, Python, and Plotly
+- **[Lid Driven Cavity 2D](https://github.com/pgomur/lid-driven-cavity-2D)** - 2D CFD solver in Fortran using Chorin's projection method, OpenMP parallelization, and HDF5 I/O
+- **[SEIRD Simulator](https://github.com/pgomur/seird-simulator)** - Fortran epidemiological simulator with OpenMP, adaptive RK45 integration, and vaccination dynamics
+  
+### Web Apps, Graphics & Interfaces
+- **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - Procedural WebGPU terrain engine using compute shaders, predictive spatial streaming, and Angular Signals
+- **[Binary Raw](https://github.com/pgomur/binary-raw)** - Zero-framework web-based hex editor with virtualized rendering, multi-format binary parsing, and real-time data inspection
+- **[VPBX Flow Extension](https://github.com/pgomur/vpbx-flow-extension)** - Read-only Chrome extension (Manifest V3) for VPBX data exploration with relational panels and D3 graph view
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pgomur&layout=compact&theme=github_dark&langs_count=10&hide_border=true)
 
 ### Programming Languages
