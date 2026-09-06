@@ -10,6 +10,7 @@
 - **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - WebGPU procedural terrain engine with compute shaders, predictive streaming, and Angular Signals
 - **[Binary Raw](https://github.com/pgomur/binary-raw)** - Zero-framework hex editor with virtualized rendering and multi-format binary parsing
 - **[VPBX Flow Extension](https://github.com/pgomur/vpbx-flow-extension)** - Read-only Chrome extension (Manifest V3) for VPBX data exploration with relational panels and graph view
+- **[Pocket Terminal Concept](https://github.com/pgomur/pocket-terminal-concept)** - Svelte 5 pocket device UX exploration with local LLM chat, Game of Life, and live ASCII charts
 
 # Tech Stack
 
