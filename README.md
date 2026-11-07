@@ -5,6 +5,9 @@
 - **[MC-MD Simulator](https://github.com/pgomur/MC-MD-Simulator)** - Interactive Molecular Dynamics & Monte Carlo simulation platform built with Fortran, Python, and Plotly
 - **[Lid Driven Cavity 2D](https://github.com/pgomur/lid-driven-cavity-2D)** - 2D CFD solver in Fortran using Chorin's projection method, OpenMP parallelization, and HDF5 I/O
 - **[SEIRD Simulator](https://github.com/pgomur/seird-simulator)** - Fortran epidemiological simulator with OpenMP, adaptive RK45 integration, and vaccination dynamics
+
+### Desktop Apps & Local AI
+- **[Loopback Transcriber](https://github.com/pgomur/loopback-transcriber)** - WPF/.NET 10 meeting recorder with per-app WASAPI capture, local speech-to-text, speaker separation, LLM summaries, and live translation
   
 ### Web Apps, Graphics & Interfaces
 - **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - WebGPU procedural terrain engine with compute shaders, predictive streaming, and Angular Signals
