@@ -42,6 +42,7 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![whisper.cpp](https://img.shields.io/badge/whisper.cpp-10A37F?style=flat&logoColor=white)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1F4E79?style=flat)
 ![LightGBM](https://img.shields.io/badge/LightGBM-20B2AA?style=flat)
 ![Prophet](https://img.shields.io/badge/Prophet-6A5ACD?style=flat)
@@ -64,6 +65,7 @@
 ![D3.js](https://img.shields.io/badge/D3.js-F08000?style=flat&logo=d3.js&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-4CAF50?style=flat&logo=leaflet&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=flat)
 ![NgRx](https://img.shields.io/badge/NgRx-6B46C1?style=flat&logo=ngrx&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-4CAF00?style=flat&logo=greensock&logoColor=white)
 
