@@ -10,7 +10,7 @@
 - **[Loopback Transcriber](https://github.com/pgomur/loopback-transcriber)** - WPF/.NET 10 meeting recorder with per-app WASAPI capture, local speech-to-text, speaker separation, LLM summaries, and live translation
   
 ### Web Apps, Graphics & Interfaces
-- **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - WebGPU procedural terrain engine with compute shaders, predictive streaming, and Angular Signals
+- **[NG Terrain Procedural](https://github.com/pgomur/ng-terrain-procedural)** - WebGPU procedural terrain engine with compute shaders, predictive LOD streaming, Angular Signals
 - **[Binary Raw](https://github.com/pgomur/binary-raw)** - Zero-framework hex editor with virtualized rendering and multi-format binary parsing
 - **[VPBX Flow Extension](https://github.com/pgomur/vpbx-flow-extension)** - Read-only Chrome extension (Manifest V3) for VPBX data exploration with relational panels and graph view
 - **[Pocket Terminal Concept](https://github.com/pgomur/pocket-terminal-concept)** - Svelte 5 pocket device UX exploration with in-browser LLM chat, three themes and a Three.js 3D view
